@@ -19,3 +19,7 @@
     cursor: pointer;
     color: var(--color-primary);
 }
+
+.albumWrapper{
+    margin-bottom: 18px;
+}

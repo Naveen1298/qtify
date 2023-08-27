@@ -34,3 +34,7 @@ img,svg {
 .swiper-slide {
   width: auto !important;
 }
+
+.MuiTabs-indicator{
+  background-color: #34c94b !important;
+}

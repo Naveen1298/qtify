@@ -25,10 +25,20 @@
         background-color: var(--color-black);
         color: var(--color-white);
     }
+
 }
 
 .titleWrapper{
     margin-top: 6px;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.pill{
+    background-color: var(--color-black);
+    /* color: var(--color-white); */
+    padding: 6px;
+    border-radius: 16px;
+    width: max-content;
+    font-size: 12px;
 }
