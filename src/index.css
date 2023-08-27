@@ -38,3 +38,29 @@ img,svg {
 .MuiTabs-indicator{
   background-color: #34c94b !important;
 }
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:first-of-type{
+  border-radius: 4px !important;
+  margin-bottom: 10px;
+}
+
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root{
+  /* min-height: 55px !important; */
+  /* margin-bottom: 10px !important; */
+  background-color: #000 !important;
+  color: #fff !important;
+  border: 1px solid #fff !important;
+  border-radius: 4px !important;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root{
+  width: 65vw;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+  color: #fff !important;
+}
+
+.MuiPaper-rounded{
+  border-radius: 4px !important;
+}

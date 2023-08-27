@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 // import Card from './components/Card/Card'
 import Section from "./components/Section/Section";
 import styles from './App.module.css'
+import Faq from "./components/Faq/Faq";
 // import {data} from './mockData/data'
 
 function App() {
@@ -99,6 +100,7 @@ function App() {
     filteredData={filteredData} filteredDataValues={filteredDataValues} 
     value={value} handleToggle={handleToggle} handleChange={handleChange}/>
     </div>
+    <Faq />
     </>
   );
 }
